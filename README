@@ -1,1 +1,11 @@
 HOLA
+
+
+###
+Debes indicar en el principio del Readme de que va el proyecto.
+Tienes que hacer un MVC funcional (sólo un método main estático)
+debes implementar un Layout inicial,
+donde pongas un JLabel en la Cabecera con el nombre del programa,
+que la ventana principal tenga nombre y
+que lance una ventana de imitación de carga de unos segundos.
+###
