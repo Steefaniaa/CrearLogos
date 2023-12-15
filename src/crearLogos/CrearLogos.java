@@ -1,6 +1,6 @@
-package proyectos;
+package crearLogos;
 
-public class Principal {
+public class CrearLogos {
 
 	public static void main(String[] args) {
 		
